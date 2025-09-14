@@ -1,0 +1,16 @@
+Unicode is the code for any special char from Unicode standards.
+The Unicode value will be available in Unicode table.
+
+Unicode chars cannot be printed using sysout is byte stream based
+PrintWriter will work on char stream based
+
+flush() will clear the stream buffer, before printing.
+out.flush(); -- is the invoke method
+
+Collections
+
+Stack - LIFO
+methods - peek(), check the top element
+	  pop(), delete bottom element
+	  push(), add element to stack
+? - is th generic used to make sure that the generic could be either child or parent object

@@ -1,0 +1,58 @@
+Spring Features
+********************
+
+POJO
+Dependency Injection
+MVC
+REST
+Security
+Batch
+Data
+AOP
+Integration with other frameworks like Struts, Hibernate
+
+Spring Boot is the configurations to work with Spring framework
+Spring Boot provides the Tomcat server in its JAR file, so that it can be
+run in any JVM env.
+
+spring-boot-boot-starter-web to work with web proj
+spring-boot-starter-jdbc for JDBC connections
+
+application.properties file allows developer to configure the spring app
+Spring create objects for the web app, it is through Spring container
+
+Dependency Injection:
+Dependency of an object on an object.
+
+
+IDE for Spring Boot
+STS - From Spring
+Eclipse
+
+
+download proj from Spring initializer site
+and import it to eclipse
+
+To create a springboot proj
+goto spring.initializer.io and gve the proj name, dependencies to create a proj
+
+features:
+Logging
+Monitoring through Spring Boot Actuator
+Spring Boot Dev Tools
+Spring Boot Initializer
+
+
+Spring Web allows to develop web apps and REST apis
+Spring Boot Starter Web - web projs using Sprinv MNVC, tomcat, json
+Spring Boot Starter Test - Junits
+Spring Boot Starter JAP - DB communication through JPA
+Spring Boot Starter JDBC - DB communication through JDBC
+Spring Boot Starter Security - securing web proj or rest apis
+
+
+Spring Boot Autoconfiguration takes care of all configurations required for a web app, so that developer need not to worry on configurations.
+
+Download STS (Spring Tools Suite) app from internet
+Install it
+Latest Spring version is 3.5.0
